@@ -1,4 +1,4 @@
 TOAS_bot
 .vscode
-_pycache_
 credentials.txt
+__pycache__
